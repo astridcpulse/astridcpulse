@@ -1,13 +1,14 @@
-<h1 align="center">Hey there, I'm Astrid</h1>
+<h1 align="center">Hey there, I'm Astrid 💫 🦾</h1>
 <h3 align="center">A fullstack developer in Minnesota</h3>
 
-- I used to be a mechanical engineer 🦾 working on cell growth incubators 🦠 🧫 but that got kinda boring after a few years so I decided to start coding!  
+- I used to be a mechanical engineer working on cell growth incubators 🦠 🧫 but that got kinda boring after a few years so I decided to start coding!
+- So far I've mostly been using **Javascript front and back end with node and express** but this year I'd love to dive more into **C# and Python**
 
-- I’m currently working on a javascript web app for a local non-profit that focuses on mentoring LGBTQ+ kids 🏳️‍⚧️🏳️‍🌈 it's been incredibly rewarding to give back to the community in such a positive way. 
+- I’m currently working on a javascript web app for a **local non-profit that focuses on mentoring LGBTQ+ kids 🏳️‍⚧️🏳️‍🌈** it's been incredibly rewarding to give back to the community in such a positive way. 
 
-- I developed an app called Bandchat! (its got some bugs to iron out still 🫠 so please forgive me) **[Bandchat](band-chat.herokuapp.com)**
+- I developed an app called Bandchat that allows musicians to collaborate in a shared online workspace! (its got some bugs to iron out still 🫠 please forgive me) **[Bandchat](band-chat.herokuapp.com)**
 
-- 💬 Ask me about **how many James Bond movies I've seen (it's all of them and I hate them all)**
+- 💬 Ask me about how many James Bond movies I've seen  <font size="-1">(it's all of them and I hate them all)</font> 
 
 - 📫 How to reach me **astridcpulse@gmail.com**
 
