@@ -6,14 +6,14 @@
 
 - I’m currently working on a javascript web app for a **local non-profit that focuses on mentoring LGBTQ+ kids 🏳️‍⚧️🏳️‍🌈** it's been incredibly rewarding to give back to the community in such a positive way. 
 
-- I developed an app called Bandchat that allows musicians to collaborate in a shared online workspace! (its got some bugs to iron out still 🫠 please forgive me) **[Bandchat](band-chat.herokuapp.com)**
+- I developed an app called **[Bandchat](band-chat.herokuapp.com)** that allows musicians to collaborate in a shared online workspace! (its got some bugs to iron out still 🫠 please forgive me) 
 
-<p> 💬 Ask me about how many James Bond movies I've seen </p>  
-<p style="font-size: 26px">(it's all of them and I hate them all)</p>
+<p> 💬 Ask me about how many James Bond movies I've seen <kbd> it's all of them and I hate them all </kbd></p>
 
-- Reach me at **astridcpulse@gmail.com**
 
+**astridcpulse@gmail.com**
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/astrid-pulse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="astrid-pulse" height="30" width="40" /></a>
 </p>
