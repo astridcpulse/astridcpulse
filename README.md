@@ -8,7 +8,8 @@
 
 - I developed an app called Bandchat that allows musicians to collaborate in a shared online workspace! (its got some bugs to iron out still 🫠 please forgive me) **[Bandchat](band-chat.herokuapp.com)**
 
-- 💬 Ask me about how many James Bond movies I've seen  <p font size="-1">(it's all of them and I hate them all)</p> 
+<p> 💬 Ask me about how many James Bond movies I've seen </p>  
+<p style="font-size: 26px">(it's all of them and I hate them all)</p>
 
 - Reach me at **astridcpulse@gmail.com**
 
