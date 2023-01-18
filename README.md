@@ -8,9 +8,9 @@
 
 - I developed an app called Bandchat that allows musicians to collaborate in a shared online workspace! (its got some bugs to iron out still 🫠 please forgive me) **[Bandchat](band-chat.herokuapp.com)**
 
-- 💬 Ask me about how many James Bond movies I've seen  <font size="-1">(it's all of them and I hate them all)</font> 
+- 💬 Ask me about how many James Bond movies I've seen  <p font size="-1">(it's all of them and I hate them all)</p> 
 
-- 📫 How to reach me **astridcpulse@gmail.com**
+- Reach me at **astridcpulse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
