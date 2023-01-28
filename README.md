@@ -2,7 +2,7 @@
 <h3 align="center">A fullstack developer in Minnesota</h3>
 
 - I used to be a mechanical engineer who spent her time designing cell growth incubators 🦠 🧫, frying sensors, thinkin bout sheet metal. Typical girl stuff✨. But that got kinda boring after a few years so I decided to start coding!
-- So far I've mostly been using **Javascript front and back end with node and express** but this year I'd love to dive more into **C# and Python**
+- So far I've mostly been using **Javascript front and back end with node and express** but this year I'm diving more into **C# and Python**
 
 - I’m currently working on a javascript web app for a **local non-profit that focuses on mentoring LGBTQ+ kids 🏳️‍⚧️🏳️‍🌈** it's been incredibly rewarding to give back to the community in such a positive way. 
 
