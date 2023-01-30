@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Astrid 💫 🦾</h1>
-<h3 align="center">A fullstack developer in Minnesota</h3>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=35&pause=1000&color=D4C5FF&width=460&lines=Hey+there%2C+I'm+Astrid" alt="Typing SVG" /></a>
+<h3 align="left" font="Roboto+Mono&size=35">A fullstack developer in Minnesota</h3>
 
 - I used to be a mechanical engineer who spent her time designing cell growth incubators 🦠 🧫, frying sensors, thinkin bout sheet metal. Typical girl stuff✨. But that got kinda boring after a few years so I decided to start coding!
 - So far I've mostly been using **Javascript front and back end with node and express** but this year I'm diving more into **C# and Python**
