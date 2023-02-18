@@ -24,7 +24,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astridcpulse&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astridcpulse&layout=compact&theme=vision-friendly-dark&hide_progress=true&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=astridcpulse&theme=ayu-mirage&hide_border=true&border_radius=40)](https://git.io/streak-stats)
 
