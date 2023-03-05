@@ -2,9 +2,9 @@
 <h3 align="left" font="Roboto+Mono&size=35">A fullstack developer in Minnesota</h3>
 
 - I used to be a mechanical engineer who spent her time designing cell growth incubators 🦠 🧫, frying sensors, thinkin bout sheet metal. Typical girl stuff✨. But that got kinda boring after a few years so I decided to start coding! Currently looking for fulltime software jobs and doing some freelance work. If you wanna talk or connect check out my links below ⬇️
-- So far I've mostly been using **Javascript** front and back end with **Node** and **Express** but this year I'm diving more into **C# and Python**
+- So far I've mostly been using **Javascript** front and back end with **Node** and **Express** but this year I'm diving more into **C# and .NET**
 
-- I’m currently working on a **React** web app with a **.NET API** for a local non-profit that focuses on mentoring LGBTQ+ kids 🏳️‍⚧️🏳️‍🌈 it's been incredibly rewarding to be involved in the community in such a positive way. 
+- I’m currently working on a **React** web app with a **.NET API** for a local non-profit that focuses on mentoring LGBTQ+ kids 🏳️‍⚧️🏳️‍🌈 it's been incredibly rewarding to be involved in the community in such a positive way
 
 - I developed an app called **[Bandchat](band-chat.herokuapp.com)** that allows musicians to collaborate in a shared online workspace! (if you find bugs, feel free to open a PR or just email me about it!) 
 
