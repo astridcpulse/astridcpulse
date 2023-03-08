@@ -6,7 +6,7 @@
 
 - I’m currently working on a **React** web app with a **.NET API** for a local non-profit that focuses on mentoring LGBTQ+ kids 🏳️‍⚧️🏳️‍🌈 it's been incredibly rewarding to be involved in the community in such a positive way
 
-- I developed an app called **[Bandchat](band-chat.herokuapp.com)** that allows musicians to collaborate in a shared online workspace! (if you find bugs, feel free to open a PR or just email me about it!) 
+- I developed an app called **[Bandchat](https://band-chat.herokuapp.com/)** that allows musicians to collaborate in a shared online workspace! (if you find bugs, feel free to open a PR or just email me about it!) 
 
 <p> 💬 Ask me about how many James Bond movies I've seen <kbd> it's all of them and I hate them all </kbd></p>
 
