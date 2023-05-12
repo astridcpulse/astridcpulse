@@ -2,7 +2,7 @@
 <h3 align="left" font="Roboto+Mono&size=35">A fullstack developer in Minnesota</h3>
 
 - I used to be a mechanical engineer who spent her time designing cell growth incubators 🦠 🧫, frying sensors, thinkin bout sheet metal. Typical girl stuff✨. But that got kinda boring after a few years so I moved on to software! Currently working as a fullstack developer in MN. If you wanna talk or connect check out my links below ⬇️
-- So far I've mostly been using **Javascript** front and back end with **Node** and **Express** but this year I'm diving more into **C# and .NET**
+- Mostly doing a lot of **React** and **Typescript** in my day to day, along with some **.NET** and **C#** for API/backend tossed in. 
 
 - Besides my software day job, I’m also currently working on a **React** web app with a **.NET API** for a local non-profit that focuses on mentoring LGBTQ+ kids 🏳️‍⚧️🏳️‍🌈 it's been incredibly rewarding to be involved in the community in such a positive way
 
