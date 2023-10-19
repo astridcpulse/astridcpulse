@@ -1,7 +1,7 @@
 <h3 align="left" font="Roboto+Mono&size=35">Fullstack developer in Minnesota</h3>
 
 - Hi I'm Astrid! I used to be a mechanical engineer who spent her time designing cell growth incubators 🦠 🧫, frying sensors, thinkin bout sheet metal. Typical girl stuff✨. But that got kinda boring after a few years so I moved on to software! Currently working as a fullstack developer in MN. If you wanna talk or connect check out my links below ⬇️
-- Mostly doing a lot of **React** and **Typescript** in my day to day, along with **.NET** and **C#** for API/backend tossed in. 
+- Mostly doing a lot of **React** and **Typescript** in my day to day, along with **.NET** and **C#** for API/backend work tossed in. 
 
 <p> 💬 Ask me about how many James Bond movies I've seen <kbd> it's all of them and I hate them all </kbd></p>
 
