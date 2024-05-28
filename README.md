@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/astrid-pulse" target="blank"><img align="center" src=https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg height="40" width="50" /></a>
 </p>
-<kbd><h2><a href="mailto:astridcpulse@gmail.com" target="_blank" rel="noreferrer"> EMAIL ASTRID </a></h2></kbd>
 
   ***
 <h3 align="left">Languages and Tools:</h3>
